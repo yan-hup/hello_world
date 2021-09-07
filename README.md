@@ -1,2 +1,2 @@
 # hello_world
-my first git project
+open my book
